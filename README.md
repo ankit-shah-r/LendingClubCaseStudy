@@ -1,5 +1,5 @@
 # Lending Club 
-> Analysis to predict potential Loan Defaulters and 
+> Analysis to predict potential Loan Defaulters 
 
 
 ## Table of Contents
